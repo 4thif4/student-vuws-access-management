@@ -1,6 +1,6 @@
 # 🎈 Student Access Management
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vuws-access-management.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tutor-request-soss.streamlit.app/)
 
 ### How to run it on your own machine
 
